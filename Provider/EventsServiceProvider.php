@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Viserio\Component\Events\Providers;
+namespace Viserio\Component\Events\Provider;
 
 use Interop\Container\ServiceProvider;
 use Psr\Container\ContainerInterface;
